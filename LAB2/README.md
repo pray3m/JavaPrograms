@@ -22,7 +22,7 @@ To learn about tokens, expressions, functions, array conditionals in Java.
 - [Q.N 14*]()
 - [Q.N 15](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/PositiveNegative.java)
 - [Q.N 16](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/DaysOfWeek.java)
-- [Q.N 17*]()
+- [Q.N 17](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/checkAlphabet.java)
 - [Q.N 18*]()
 - [Q.N 19*]()
 - [Q.N 20*]()
