@@ -17,7 +17,7 @@ To learn about tokens, expressions, functions, array conditionals in Java.
 - [Q.N 9](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/displayEven.java)
 - [Q.N 10](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/sumOfTenNumbers.java)
 - [Q.N 11](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/sumOfNumbers.java)
-- [Q.N 12*]()
+- [Q.N 12](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/Fibonacci.java)
 - [Q.N 13](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/factorial.java)
 - [Q.N 14*]()
 - [Q.N 15](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/PositiveNegative.java)
