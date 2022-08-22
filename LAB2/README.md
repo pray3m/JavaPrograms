@@ -24,7 +24,7 @@ To learn about tokens, expressions, functions, array conditionals in Java.
 - [Q.N 16](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/DaysOfWeek.java)
 - [Q.N 17](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/checkAlphabet.java)
 - [Q.N 18](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/calcGrade.java)
-- [Q.N 19*]()
+- [Q.N 19](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/avgFibonacci.java)
 - [Q.N 20*]()
 - [Q.N 21*]()
 - [Q.N 22](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/arrayProgram.java)
