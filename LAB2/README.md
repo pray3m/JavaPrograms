@@ -5,7 +5,7 @@ To learn about tokens, expressions, functions, array conditionals in Java.
 
 ## Acknowledgements
 
- - [LAB 2 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/lab%202(tokens%2C%20expressions%2C%20functions%2C%20array%2C%20conditioanls).pdf)
+ - [LAB 2 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/_lab%202(tokens%2C%20expressions%2C%20functions%2C%20array%2C%20conditioanls).pdf)
  - [Q.N 1](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/Test.java)
 - [Q.N 2](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/light.java)
 - [Q.N 3](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/areaOfCircle.java)
@@ -25,7 +25,7 @@ To learn about tokens, expressions, functions, array conditionals in Java.
 - [Q.N 17](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/checkAlphabet.java)
 - [Q.N 18](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/calcGrade.java)
 - [Q.N 19](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/avgFibonacci.java)
-- [Q.N 20*]()
+- [Q.N 20](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/sphereComputation.java)
 - [Q.N 21*]()
 - [Q.N 22](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/arrayProgram.java)
 - [Q.N 23](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/oddEvenInArray.java)
