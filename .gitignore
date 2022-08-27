@@ -1,0 +1,11 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Files which contains the word test in between
+*test*
+
+#Vscode files
+.vscode
