@@ -16,10 +16,10 @@ of program and functions etc.
 1. Write a program "TenHellowWorlds.java" and then prints "Hello, Wrold" ten times.
 
 3. Describe what happens if, in HelloWorld.java, you omit
-- main
-- String
-- HelloWorld
-- System.out
+- main  --> <span style="blue"> // the file is not runnable </span>
+- String --> <span style="blue"> // the file is not runnable </span>
+- HelloWorld --> <span style="blue"> // the file is not runnable </span>
+- System.out 
 - println
 
 3. Describe what happens if, in HelloWorld.java, you omit
