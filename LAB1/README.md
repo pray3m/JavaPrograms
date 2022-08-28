@@ -16,20 +16,20 @@ of program and functions etc.
 1. Write a program "TenHellowWorlds.java" and then prints "Hello, Wrold" ten times.
 
 3. Describe what happens if, in HelloWorld.java, you omit
-- main  =>  <i>// the file is not runnable</i>
-- String =>  // the file is not runnable 
-- HelloWorld =>  // the file is not runnable 
-- System.out => // cannot find symbol | Symbol: method out
-- println => // cannot find symbol | Symbol: method println
+- main  ```// the file is not runnable```
+- String ```  // the file is not runnable ```
+- HelloWorld ``` // the file is not runnable ```
+- System.out ``` // cannot find symbol | Symbol: method out```
+- println ``` // cannot find symbol | Symbol: method println```
 
 3. Describe what happens if, in HelloWorld.java, you omit
-- the ; => // ';' expected
-- the first " => // ')' expected
-- the second " => // unclosed string literal
-- the first { => // '{' expected
-- the second { => // ';' expected
-- the first } => // reached end of file (EOF) while parsing
-- the second } => // reached EOF while parsing
+- the ; ``` // ';' expected```
+- the first " ``` // ')' expected```
+- the second " ``` // unclosed string literal```
+- the first { ``` // '{' expected```
+- the second { ``` // ';' expected```
+- the first } ``` // reached end of file (EOF) while parsing```
+- the second } ``` // reached EOF while parsing```
 
 4. Run the following program and what error message you've got? Solve the problem.
 
@@ -41,4 +41,4 @@ public class Hello {
 }
 ```
 
-// The above program is solved by adding  ```(String[] args)``` in line:38
+// The above program is solved by adding  ```(String[] args)```
