@@ -32,7 +32,7 @@ To learn about tokens, expressions, functions, array conditionals in Java.
 - [Q.N 24](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/DispDivisibles.java)
 - [Q.N 25](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/sumOfElements.java)
 - [Q.N 26](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/CountriesWithVowel.java)
-- [Q.N 27*]()
+- [Q.N 27](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/palindromeCheck.java)
 - [Q.N 28](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/sumOfDigits.java)
 - [Q.N 29](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/sumOfNumbers.java)
 - [Q.N 30](https://github.com/pray3m/JavaPrograms/blob/main/LAB2/SumOfRange.java)
