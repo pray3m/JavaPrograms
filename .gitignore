@@ -9,3 +9,7 @@
 
 #Vscode files
 .vscode
+
+#IntelliJ files
+/out/
+/.idea/
