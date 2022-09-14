@@ -2,6 +2,10 @@
 computeArea and displayArea. Write a program with main method that creates two objects of
 Rectangle class and find their areas and display area of larger rectangle. */
 
+/*
+ * author : @pray3m
+ */
+
 class Rectangle{
     int length;
     int breadth;
