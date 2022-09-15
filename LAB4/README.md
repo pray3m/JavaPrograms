@@ -7,10 +7,10 @@ super, abstract class and method.
 
 ## Acknowledgements
 
- - [LAB 4 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB3/lab%203(class%20and%20object).pdf)
+ - [LAB 4 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/lab%204(Inheritance).pdf)
  - [Q.N 1*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/SimpleInheritance.java)
- - [Q.N 2*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/BoxDemo.java)
- - [Q.N 3*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/BoxDemo.java)
+ - [Q.N 2*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/MultilevelInheritance.java)
+ - [Q.N 3*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/HierarchicalInheritance.java)
  - [Q.N 4*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/BoxDemo.java)
  - [Q.N 5*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/BoxDemo.java)
  - [Q.N 6*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/BoxDemo.java)
