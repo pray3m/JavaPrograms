@@ -12,7 +12,7 @@ super, abstract class and method.
  - [Q.N 2](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/MultilevelInheritance.java)
  - [Q.N 3](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/HierarchicalInheritance.java)
  - [Q.N 4*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/BoxDemo.java)
- - [Q.N 5*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/BoxDemo.java)
+ - [Q.N 5](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/InheritanceDemo.java)
  - [Q.N 6](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/SuperKey.java)
  - [Q.N 7](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/superMethod.java)
  - [Q.N 8*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/BoxDemo.java)

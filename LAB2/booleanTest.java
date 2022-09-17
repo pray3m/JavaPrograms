@@ -7,8 +7,6 @@ public class booleanTest {
         System.out.println("b is "+ b);
         System.out.println("b is " + !b);
 
-       // TODO :Complete the Program
-
         if(b) System.out.println("This is executed.");
         b=false;
         if(b) System.out.println("This is not executed.");
