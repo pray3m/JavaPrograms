@@ -17,4 +17,4 @@ To learn concepts of object oriented paradigm in Java.
  - [Q.N 8](https://github.com/pray3m/JavaPrograms/blob/main/LAB3/ComputeAreaofRectangle.java)
  - [Q.N 9](https://github.com/pray3m/JavaPrograms/blob/main/LAB3/OverloadDemo.java)
  - [Q.N 10](https://github.com/pray3m/JavaPrograms/blob/main/LAB3/MethodOverloading.java)
- - [Q.N 11*]()
+ - [Q.N 11](https://github.com/pray3m/JavaPrograms/blob/main/LAB3/PassingObject.java)
