@@ -17,7 +17,7 @@ super, abstract class and method.
  - [Q.N 7](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/superMethod.java)
  - [Q.N 8](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/SuperConstructor.java)
  - [Q.N 9](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/OrderOfConstructor.java)
- - [Q.N 10*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/BoxDemo.java)
- - [Q.N 11*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/BoxDemo.java)
- - [Q.N 12*](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/BoxDemo.java)
+ - [Q.N 10](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/RuntimePolymorphism.java)
+ - [Q.N 11](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/RuntimePolymorphismDemo.java)
+ - [Q.N 12](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/runtimePolymorphismSuper.java)
 
