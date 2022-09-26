@@ -14,3 +14,5 @@ This repo includes the basic Java Programs for practice..
 - [LAB 4 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB4/lab%204(Inheritance).pdf)
 
  - [LAB 5 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB5/lab%205(Abstract%20and%20interface).pdf)
+
+- [LAB 6 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB6/lab%206%20-%20Excpetional%20Handling.pdf)

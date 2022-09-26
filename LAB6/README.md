@@ -7,7 +7,7 @@ catch, throwing and re-throwing, throw, throws, cleaning up with finally.
 
 ## Acknowledgements
 
- - [LAB 6 PDF]()
+ - [LAB 6 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB6/lab%206%20-%20Excpetional%20Handling.pdf)
  - [Q.N 1](https://github.com/pray3m/JavaPrograms/blob/main/LAB6/HandlingException.java)
  - [Q.N 2](https://github.com/pray3m/JavaPrograms/blob/main/LAB6/ExceptionHandling.java)
  - [Q.N 3](https://github.com/pray3m/JavaPrograms/blob/main/LAB6/ExceptionDemo.java)
