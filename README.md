@@ -16,3 +16,13 @@ This repo includes the basic Java Programs for practice..
  - [LAB 5 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB5/lab%205(Abstract%20and%20interface).pdf)
 
 - [LAB 6 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB6/lab%206%20-%20Excpetional%20Handling.pdf)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />
+Feel free to check [issues page](https://github.com/pray3m/JavaScript30/issues).
+
+## Show your support
+
+Give a ⭐️ if you like the project!
