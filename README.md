@@ -17,6 +17,7 @@ This repo includes the basic Java Programs for practice..
 
 - [LAB 6 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB6/lab%206%20-%20Excpetional%20Handling.pdf)
 
+ - [LAB 7 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB7/lab%207-Thread.pdf)
 
 ## 🤝 Contributing
 
