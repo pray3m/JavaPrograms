@@ -7,9 +7,9 @@ thread execution and Interthread communication.
 
 ## Acknowledgements
 
- - [LAB 7 PDF](xxx link xxx)
- - [Q.N 1*](https://github.com/pray3m/JavaPrograms/blob/main/LAB7/link xxx)
- - [Q.N 2*](https://github.com/pray3m/JavaPrograms/blob/main/LAB7/link xxx)
+ - [LAB 7 PDF](https://github.com/pray3m/JavaPrograms/blob/main/LAB7/lab%207-Thread.pdf)
+ - [Q.N 1](https://github.com/pray3m/JavaPrograms/blob/main/LAB7/ThreadDemo.java)
+ - [Q.N 2](https://github.com/pray3m/JavaPrograms/blob/main/LAB7/InterThreadCommunicatio.java)
  - [Q.N 3*](https://github.com/pray3m/JavaPrograms/blob/main/LAB7/link **)
  - [Q.N 4*](https://github.com/pray3m/JavaPrograms/blob/main/LAB7/link **)
  - [Q.N 5*](https://github.com/pray3m/JavaPrograms/blob/main/LAB7/link **)
