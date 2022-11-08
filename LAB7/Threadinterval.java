@@ -15,7 +15,7 @@ class m implements Runnable{
     }
 }
 
-public class Threadinterval {
+public class ThreadInterval {
     public static void main(String[] args) {
         m t = new m();
         Thread a = new Thread(t);

@@ -22,7 +22,7 @@ class ThreadB implements Runnable{
         }
     }
 }
-public class Runnableinterfacedemo {
+public class RunnableInterfaceDemo {
     public static void main(String[] args){
         ThreadA a=new ThreadA();
         Thread d=new Thread(a);

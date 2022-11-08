@@ -15,7 +15,7 @@ class i implements Runnable{
     }
 }
 
-public class Runnableinterface {
+public class RunnableInterface {
     public static void main(String[] args) {
         i t = new i();
         Thread a = new Thread(t);
