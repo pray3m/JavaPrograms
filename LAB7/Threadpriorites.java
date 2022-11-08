@@ -6,7 +6,7 @@ public void run()
  System.out.println("Inside run method"); 
  }
 }
-public class Threadpriorites {
+public class ThreadPriorites {
 public static void main(String[] args) {
 myThread t1 = new myThread(); 
 myThread t2 = new myThread(); 
