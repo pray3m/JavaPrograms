@@ -20,10 +20,7 @@ public class RunnableInterface {
         i t = new i();
         Thread a = new Thread(t);
         a.start();
-
-
     }
-
 }
 
 

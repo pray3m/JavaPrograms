@@ -12,6 +12,7 @@ class ThreadA implements Runnable{
         }
     }
 }
+
 class ThreadB implements Runnable{
     @Override
     public void run() {
@@ -22,6 +23,7 @@ class ThreadB implements Runnable{
         }
     }
 }
+
 public class RunnableInterfaceDemo {
     public static void main(String[] args){
         ThreadA a=new ThreadA();

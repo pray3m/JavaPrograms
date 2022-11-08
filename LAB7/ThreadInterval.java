@@ -20,8 +20,5 @@ public class ThreadInterval {
         m t = new m();
         Thread a = new Thread(t);
         a.start();
-
-
     }
-
 }
