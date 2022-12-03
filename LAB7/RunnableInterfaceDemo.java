@@ -1,7 +1,7 @@
 /*  6. Create two classes ThreadA and ThreadB which implements Runnable interface. ThreadA
 displays all even numbers from 50 to 100 and Thread B displays all odd numbers from 100 to
 200. Define a main class which creates the objects of the both the classes and displays the
-numbers as per the above mentioned specifications. */
+numbers as per the above mentioned specifications. let me in */
 
 class ThreadA implements Runnable{
     public void run(){
